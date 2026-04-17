@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Overview
+## 1. Overview
 
 This project implements the **Green-Ampt Infiltration Model**, a physically-based hydrological model used to simulate water infiltration into soil over time.
 
@@ -19,7 +19,7 @@ It is widely used in:
 
 The model balances **physical realism** with **computational simplicity**, making it ideal for both education and practical applications.
 
-### 🔍 What this project includes:
+### 2. What this project includes:
 - Mathematical implementation of the model  
 - Numerical solution of implicit equations  
 - Interactive visualization  
@@ -29,19 +29,20 @@ The model balances **physical realism** with **computational simplicity**, makin
 
 ---
 
-## 🎯 Objectives
+## 3. Objectives
 
 - Understand infiltration dynamics over time  
 - Analyze how soil properties affect infiltration  
 - Build an interactive educational simulation  
 - Bridge theory with real-world modeling  
 
-EXAMPLE : Ks Adjsutable
+**EXAMPLE : Ks Adjsutable**
+
 ![Ks Adjustable](images/DIFF.jpg)
 
 ---
 
-## 🧠 Why Green-Ampt?
+## 3. Why Green-Ampt?
 
 The **Green-Ampt model** is chosen because:
 
@@ -49,17 +50,12 @@ The **Green-Ampt model** is chosen because:
 - More realistic than empirical models (e.g., Horton)  
 - Widely used in engineering and research  
 
-### 📌 Assumptions:
+### 4. Assumptions:
 - Sharp wetting front  
 - Homogeneous soil  
 - Constant rainfall intensity  
 
-📸 **Screenshot:**
-> رسم يوضح wetting front
-
----
-
-## ⚙️ Model Equations
+## 5. Model Equations
 
 ### Infiltration Rate
 f(t) = Ks * (1 + (ψ * Δθ) / F(t))
@@ -77,7 +73,7 @@ F(t) = Ks * t + ψ * Δθ * ln(1 + F(t) / (ψ * Δθ))
 
 ---
 
-## 🖥️ Features
+## 6. Features
 
 - Interactive sliders (`ipywidgets`)  
 - Real-time graph updates  
@@ -92,7 +88,7 @@ F(t) = Ks * t + ψ * Δθ * ln(1 + F(t) / (ψ * Δθ))
 
 ---
 
-## 📊 Soil Presets
+## 7. Soil Presets
 
 Predefined soil parameters based on literature values.
 
@@ -101,30 +97,30 @@ Predefined soil parameters based on literature values.
 
 ---
 
-## 🚀 How to Run
+## 8. How to Run
 
 ```bash
 pip install numpy matplotlib ipywidgets
 jupyter notebook
 ```
 
-## 📌 Applications
+## 9. Applications
 - Irrigation system design  
 - Soil-water balance analysis  
 - Agricultural planning  
 - Hydrological modeling
 
-## 🧩 Future Improvements
+## 10. Future Improvements
 
 - Add rainfall intensity scenarios  
 - Compare with Horton model  
 - Export results (CSV)  
 - Convert to web app (Streamlit)
 
-## 📎 Author
+## 11. Author
 
 **Zeyad Mohamed Ali** 
 **and Abdullah Saeed**
 
-## ⭐ Support
+## 12. Support
 If you find this project useful, consider giving it a star ⭐
