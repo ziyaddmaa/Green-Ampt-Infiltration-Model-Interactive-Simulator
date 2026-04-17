@@ -72,10 +72,9 @@ F(t) = Ks * t + ψ * Δθ * ln(1 + F(t) / (ψ * Δθ))
 - **Ks** → Saturated Hydraulic Conductivity  
 - **ψ** → Wetting Front Suction Head  
 - **Δθ** → Moisture Deficit  
-- **F(t)** → Cumulative Infiltration  
-
-📸 **Screenshot:**
-> صورة من الكود أو equation visualization
+- **F(t)** → Cumulative Infiltration
+  
+![Simulation Image](images/1776453184904.png)
 
 ---
 
