@@ -83,9 +83,7 @@ F(t) = Ks * t + ψ * Δθ * ln(1 + F(t) / (ψ * Δθ))
   - Sandy Loam  
 - Visualization using Matplotlib  
 
-📸 **Screenshot:**
-> صورة للـ dropdown + الجراف
-
+![Soil Types Preset](images/PRESETS.png)
 ---
 
 ## 7. Soil Presets
@@ -93,7 +91,7 @@ F(t) = Ks * t + ψ * Δθ * ln(1 + F(t) / (ψ * Δθ))
 Predefined soil parameters based on literature values.
 
 📸 **Screenshot:**
-> صورة للـ table أو الكود
+![Soil Types Preset](images/Predefined_parameters_for_different_soil_types.png)
 
 ---
 
