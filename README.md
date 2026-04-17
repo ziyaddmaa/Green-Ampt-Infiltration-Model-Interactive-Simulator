@@ -90,7 +90,6 @@ F(t) = Ks * t + ψ * Δθ * ln(1 + F(t) / (ψ * Δθ))
 
 Predefined soil parameters based on literature values.
 
-📸 **Screenshot:**
 ![Soil Types Preset](images/Predefined_parameters_for_different_soil_types.png)
 
 ---
@@ -127,6 +126,7 @@ Academic Email: agr.ZiadMohamed240623@alexu.edu.eg
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/zeyadmohamedali  
+![My LinkedIn](images/Screenshot_20260418_004049_LinkedIn.jpg)
 
 🔗 GitHub
 https://github.com/ziyaddmaa
