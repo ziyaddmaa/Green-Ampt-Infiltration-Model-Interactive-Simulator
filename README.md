@@ -4,7 +4,9 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Field](https://img.shields.io/badge/Field-Hydrology-blue)
-![Field](https://img.shields.io/badge/Field-Soil%20Science-brown)
+![Field](https://img.shields.io/badge/Field-Soil%20Science-brown) <a href="https://colab.research.google.com/drive/1TXLaAhtG9K-nYWGc-qYrY3MJLdILroXl">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ---
 
@@ -97,6 +99,7 @@ Predefined soil parameters based on literature values.
 ## 8. Soil Chemical Analysis
 
 Integrating chemical analysis results with soil physical properties to accurately determine soil classification and visualize the texture class on the Soil Texture Triangle.
+
 ![Soil Chemical Analysis](images/Soil_Chemical_Analysis.jpg)
 
 ## 9. How to Run
