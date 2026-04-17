@@ -122,8 +122,8 @@ jupyter notebook
 ### 👤 Zeyad Mohamed Ali
 
 📧 Emails  
-- Primary Email: zeyadmohamedali6@gmail.com  
-- Academic Email: agr.ZiadMohamed240623@alexu.edu.eg  
+Primary Email: zeyadmohamedali6@gmail.com  
+Academic Email: agr.ZiadMohamed240623@alexu.edu.eg  
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/zeyadmohamedali  
@@ -137,7 +137,7 @@ Faculty of Agriculture, Alexandria University, Egypt
 ### 👤 Abdullah Saeed
 
 📧 Email  
-- Primary Email: abdowelcome84@gmail.com  
+Primary Email: abdowelcome84@gmail.com  
 
 🔗 GitHub  
 https://github.com/Abdullah2075  
@@ -148,7 +148,7 @@ https://www.linkedin.com/in/abdullah-saeed-b208b23a6
 🎓 Affiliation  
 Department of Soil and Water Sciences  
 Faculty of Agriculture, Alexandria University, Egypt
----
 
+---
 ## 12. Support
 If you find this project useful, consider giving it a star ⭐
