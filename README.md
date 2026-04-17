@@ -97,6 +97,7 @@ Predefined soil parameters based on literature values.
 ## 8. Soil Chemical Analysis
 
 Integrating chemical analysis results with soil physical properties to accurately determine soil classification and visualize the texture class on the Soil Texture Triangle.
+![Soil Chemical Analysis](images/Screenshot_20260418_004951_Samsung Internet.jpg)
 
 ## 9. How to Run
 
