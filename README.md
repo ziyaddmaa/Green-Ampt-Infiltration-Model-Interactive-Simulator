@@ -26,7 +26,7 @@ The model balances **physical realism** with **computational simplicity**, makin
 - Soil-type presets  
 
 📸 **Screenshot:**
-![Parameters](images/Screenshot2026-04-17234111.png)
+![Parameters](images/PARA.jpg.png)
 
 ---
 
