@@ -1,4 +1,4 @@
-# 🌱 Green-Ampt Infiltration Model Simulator
+# Green-Ampt Infiltration Model Simulator
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
@@ -94,27 +94,31 @@ Predefined soil parameters based on literature values.
 
 ---
 
-## 8. How to Run
+## 8. Soil Chemical Analysis
+
+Integrating chemical analysis results with soil physical properties to accurately determine soil classification and visualize the texture class on the Soil Texture Triangle.
+
+## 9. How to Run
 
 ```bash
 pip install numpy matplotlib ipywidgets
 jupyter notebook
 ```
 
-## 9. Applications
+## 10. Applications
 - Irrigation system design  
 - Soil-water balance analysis  
 - Agricultural planning  
 - Hydrological modeling
 
-## 10. Future Improvements
+## 11. Future Improvements
 
 - Add rainfall intensity scenarios  
 - Compare with Horton model  
 - Export results (CSV)  
 - Convert to web app (Streamlit)
 
-## 11. Authors
+## 12. Authors
 
 ---
 
@@ -128,8 +132,9 @@ Academic Email: agr.ZiadMohamed240623@alexu.edu.eg
 https://www.linkedin.com/in/zeyadmohamedali  
 ![My LinkedIn](images/Screenshot_20260418_004049_LinkedIn.jpg)
 
-🔗 GitHub
-https://github.com/ziyaddmaa
+
+
+🔗 GitHub : https://github.com/ziyaddmaa
 
 🎓 Affiliation  
 Department of Soil and Water Sciences  
@@ -153,5 +158,5 @@ Department of Soil and Water Sciences
 Faculty of Agriculture, Alexandria University, Egypt
 
 ---
-## 12. Support
+## 13. Support
 If you find this project useful, consider giving it a star ⭐
