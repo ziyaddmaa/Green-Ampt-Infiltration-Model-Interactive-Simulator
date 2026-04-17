@@ -117,7 +117,19 @@ jupyter notebook
 
 ## 11. Author
 
-**Zeyad Mohamed Ali** 
+**- Zeyad Mohamed Ali** 
+## 📧 Contact
+Primary Email: zeyadmohamedali6@gmail.com  
+Academic Email: agr.ZiadMohamed240623@alexu.edu.eg  
+
+## 🔗 LinkedIn
+https://www.linkedin.com/in/zeyadmohamedali
+
+## 🎓 Affiliation
+Department of Soil and Water Sciences  
+Faculty of Agriculture  
+Alexandria University, Egypt
+
 **and Abdullah Saeed**
 
 ## 12. Support
