@@ -128,6 +128,9 @@ Academic Email: agr.ZiadMohamed240623@alexu.edu.eg
 🔗 LinkedIn  
 https://www.linkedin.com/in/zeyadmohamedali  
 
+🔗 GitHub
+https://github.com/ziyaddmaa
+
 🎓 Affiliation  
 Department of Soil and Water Sciences  
 Faculty of Agriculture, Alexandria University, Egypt  
