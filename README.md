@@ -36,8 +36,8 @@ The model balances **physical realism** with **computational simplicity**, makin
 - Build an interactive educational simulation  
 - Bridge theory with real-world modeling  
 
-📸 **Screenshot:**
-> صورة توضح اختلاف المنحنيات عند تغيير القيم
+EXAMPLE : Ks Adjsutable
+![Ks Adjustable](images/DIFF.jpg)
 
 ---
 
