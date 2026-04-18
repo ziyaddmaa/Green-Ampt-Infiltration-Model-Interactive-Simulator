@@ -134,6 +134,7 @@ Academic Email: agr.ZiadMohamed240623@alexu.edu.eg
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/zeyadmohamedali  
+
 ![My LinkedIn](images/Screenshot_20260418_004049_LinkedIn.jpg)
 
 
